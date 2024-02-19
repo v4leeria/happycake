@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: palevioletred;
+}
+
+.imagenHome {
+  width: 30%;
+}
+
+.contacto {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.boton {
+  width: 10%;
+}
+
+.inputContacto {
+  width: 80%;
+}
+
+.form {
+  width: 80%;
+  height: 20vh;
+}
+
+.icono {
+  width: 20px;
+  margin-right: 2px;
+}
+
+.home {
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
